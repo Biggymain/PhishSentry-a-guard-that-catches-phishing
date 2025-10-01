@@ -1,0 +1,4 @@
+email_threat_scan.log
+.env
+__pycache__/
+*.pyc
